@@ -1,4 +1,4 @@
-##클래스 VS 구조체
+## 클래스 VS 구조체
 
 In Java, a class is a blueprint for creating objects, while a struct is a value type that can contain a group of fields. In general, classes are used to represent more complex entities that have both data and behavior, while structs are used to represent simple data structures that only contain data.
 Here are some key differences between classes and structs in Java:
