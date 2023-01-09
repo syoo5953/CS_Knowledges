@@ -2,8 +2,9 @@
 
 In Java, a class is a blueprint for creating objects, while a struct is a value type that can contain a group of fields. In general, classes are used to represent more complex entities that have both data and behavior, while structs are used to represent simple data structures that only contain data.
 Here are some key differences between classes and structs in Java:
- - Classes are reference types, while structs are value types. This means that when you pass an object of a class to a method, you are passing a reference to the object, while when you pass a struct to a method, you are creating a copy of the struct and passing it to the method.
- - Classes can have constructors, destructors, and other methods, while structs cannot.
- - Classes can be inherited from other classes, while structs cannot be inherited.
- - Structs are typically used to represent simple data structures, such as a point in 2D space or a customer record, while classes are used to represent more complex entities that have both data and behavior.
- - Overall, the choice between using a class or a struct in Java will depend on the specific requirements of your application and the nature of the data you need to represent.
+
+- Classes are reference types, while structs are value types. This means that when you pass an object of a class to a method, you are passing a reference to the object, while when you pass a struct to a method, you are creating a copy of the struct and passing it to the method.
+- Classes can have constructors, destructors, and other methods, while structs cannot.
+- Classes can be inherited from other classes, while structs cannot be inherited.
+- Structs are typically used to represent simple data structures, such as a point in 2D space or a customer record, while classes are used to represent more complex entities that have both data and behavior.
+- Overall, the choice between using a class or a struct in Java will depend on the specific requirements of your application and the nature of the data you need to represent.
